@@ -1,2 +1,2 @@
 # At-Home-SIEM-Lab-via-Wazuh
-A home-lab focused on setting up Wazuh SIEM
+*Currently Working on Setting up the Lab and Documentation, will be updated soon...*
