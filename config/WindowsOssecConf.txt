@@ -1,5 +1,4 @@
 <ossec_config>
-
   <!-- Agent Identification -->
   <client>
     <address>192.168.x.x</address> <!-- Manager IP -->
@@ -8,7 +7,7 @@
   <!-- Syscheck for FIM -->
   <syscheck>
     <frequency>43200</frequency>
-    <directories realtime="yes">C:\Users/abc/AlertTest</directories>
+    <directories realtime="yes">C:\Users\abc\AlertTest</directories>
   </syscheck>
 
   <!-- Logging and alerts -->
